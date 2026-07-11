@@ -51,7 +51,7 @@ You need the following installed locally:
 Clone the repository and install dependencies for both the client and server:
 
 ```bash
-git clone <github.com/saurabhbhandariii/MEDISCANAAI>
+git clone <github.com/Nishant88-NN/MEDISCANAAI>
 
 cd MediScanAI
 npm install
